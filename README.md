@@ -6,6 +6,6 @@ the outcome is to structure the files for search, and data exchange using a cont
 
 ***Goals***
 
-1. tool kit for built environment to name files
-2. use a controlled vocabulary for terms using a semantic web vocabulary
-3. prepare files for the common data environment (CDE)
+1. use a controlled vocabulary for terms utilising semantic web technologies Resource Description Framework (RDF) and Simple Knowledge Organization System (SKOS)
+2.file naming convention tool kit for built environment to name files to comply with ISO-19650 
+3. prepare files names for the common data environment (CDE)
